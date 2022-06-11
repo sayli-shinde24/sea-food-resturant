@@ -1,0 +1,112 @@
+body {
+  margin: 0;
+  font-family: Arial,sans-serif;
+   background-color: #84C3;
+   
+}
+
+#menu-tag{
+    color:azure;
+    text-decoration: none;
+     margin-right: 30px;
+    padding-left:20px
+}
+.menu{
+     display: inline;
+    font-size: 30px;
+    text-decoration: none;
+    color:azure;
+   
+}
+.header-container{
+    background: black;
+    padding:20px;
+    
+}
+#heading{
+    font-size: 60px;
+    padding:20px;
+    margin-top:50px;
+     text-decoration: none;
+    color:white;
+    font-family:cursive
+    
+}
+li{
+    list-style-type: none;
+    display: inline;
+}
+
+#menu-tag:hover{
+    font-size:40px;
+    font-family: monospace
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+    font-size:170px;
+    font-family: cursive;
+}
+.contact-form{
+        width: 65%;
+      padding: 30px 40px;
+      box-sizing: border-box;
+      text-align:center;
+      font-family: "impact";
+       }
+    .contact-form h1{
+      margin-top:0;
+    }
+    .txtb{
+      border:1px solid black;
+      margin: 15px 0;
+      padding: 12px 18px;
+      ;
+       }
+    .txtb label{
+     
+      text-align:left;
+        font-size: 20px;
+      
+    }
+   .button {
+  border: none;
+  color: lightblue;
+  padding: 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button4 {
+  background-color: lightblue;
+  width:100px;
+  color: black;
+ 
+}
+
+.button4:hover {background-color: blue;
+      color:white;}
+   
+h4{
+    font-size:50px;
+    border-bottom: 5px dotted orange;
+    font-family: cu;
+}
+p{
+    font-size:30px;
+    text-align: center;
+    font-family: sans-serif;
+}
+   
